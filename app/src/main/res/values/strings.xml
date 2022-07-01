@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Gestion Etudiants</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="classe_etudiant">Classe Etudiant</string>
+    <string name="nom_etudiant">Nom Etudiant</string>
+</resources>
